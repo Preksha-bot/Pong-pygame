@@ -35,7 +35,7 @@ Welcome to **Simple Single-Player Pong**, a minimalistic arcade game developed u
 ## Installation
 1. **Clone the Repository**  
    ```bash
-   git clone https://github.com/your-username/pong-pygame.git
+   git clone https://github.com/your-username/Pong-pygame.git
 2. **Navigate to the Project Directory**  
    cd Pong-pygame
 3. **Install Dependencies**  
